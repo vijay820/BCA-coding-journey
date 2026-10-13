@@ -1,6 +1,5 @@
 # BCA_coding_Journey 
-## This repo contains my college
-learning journey and programming practice.
+## This repo contains my college learning journey and programming practice.
 ## What_I_am_learning
 -C programming<br>
 -Python<br>
